@@ -43,6 +43,14 @@
     <h3>⚡ᴍʏ sᴛᴀᴛɪsᴛɪᴄs:</h3>
 </section>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stoqztw&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/stoqztw/github-readme-stats)
+
+<!--START_SECTION:waka-->
+
+[![Stoqz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atsq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--END_SECTION:waka-->
+
 ###
 
 <section class="Social Media">
