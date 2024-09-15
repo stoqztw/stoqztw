@@ -50,8 +50,8 @@
 </section>
 
 [![Twitter: atsushiSq](https://img.shields.io/twitter/follow/atsushiSq?style=social)](https://x.com/atsushiSq)
-[![Linkedin: atsq](https://img.shields.io/badge/-atsq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://www.linkedin.com/in/artem-petrov-7a5632321/)
 [![GitHub](https://img.shields.io/github/followers/stoqztw?label=follow&style=social)](https://github.com/stoqztw)
+[![Linkedin: atsq](https://img.shields.io/badge/-atsq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://www.linkedin.com/in/artem-petrov-7a5632321/)
 [![Telegram: @artfen1aas](https://img.shields.io/badge/-@artfen1aas-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://t.me/artfen1aas)
 
 ###
