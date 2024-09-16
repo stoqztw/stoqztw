@@ -53,6 +53,14 @@
 
 ###
 
+<h3>✨ᴄᴏᴜʀsᴇs ᴄᴏᴍᴘʟᴇᴛᴇᴅ:</h3>
+
+| Курсы                     | Дата              |
+| ------------------------- | ----------------- |
+| udemy.com/Web-разработчик | 08.2024 - XX.2024 |
+
+###
+
 <section class="Social Media">
     <h3><img height="30px" src="https://i.gifer.com/bf0.gif"> ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ:</h3>
 </section>
@@ -63,7 +71,3 @@
 [![Telegram: @artfen1aas](https://img.shields.io/badge/-@artfen1aas-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://t.me/artfen1aas)
 
 ###
-
-<!-- gif -->
-<!-- https://i.gifer.com/3BBS.gif -->
-<!-- https://i.gifer.com/7IjS.gif -->
