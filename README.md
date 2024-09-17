@@ -10,7 +10,6 @@
 
 <section class="About-me">
     <h3>⭐ ᴀʙᴏᴜᴛ ᴍᴇ</h3>
-    <img align="right" height="100px" src="https://i.gifer.com/7IjS.gif">
     <div>
     Мне 19. <img height="30px" src="https://i.gifer.com/Z5cP.gif"> В данный момент активно изучаю frontend, экспериментирую с HTML, CSS и JavaScript. Моя цель — стать full-stack разработчиком и создавать полноценные веб-приложения, осваивая также backend технологии. Всегда в поиске новых знаний и стремлюсь улучшать свои навыки.
     </div>
@@ -71,3 +70,7 @@
 [![Telegram: @artfen1aas](https://img.shields.io/badge/-@artfen1aas-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://t.me/artfen1aas)
 
 ###
+
+<!--
+gif
+https://i.gifer.com/7IjS.gif -->
