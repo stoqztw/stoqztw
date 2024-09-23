@@ -3,22 +3,22 @@
 </div>
 
 <section class="header">
-    <h1 align=center>Привет👋 Меня зовут Артём!</h1>
+    <h1 align=center>Hi👋 I'm Artem!</h1>
 </section>
 
 ###
 
 <section class="About-me">
-    <h3>⭐ ᴀʙᴏᴜᴛ ᴍᴇ</h3>
+    <h3>⭐ About me</h3>
     <div>
-    Мне 19. <img height="30px" src="https://i.gifer.com/Z5cP.gif"> В данный момент активно изучаю frontend, экспериментирую с HTML, CSS и JavaScript. Моя цель — стать full-stack разработчиком и создавать полноценные веб-приложения, осваивая также backend технологии. Всегда в поиске новых знаний и стремлюсь улучшать свои навыки.
+    I'm 19. <img height="30px" src="https://i.gifer.com/Z5cP.gif"> Сurrently focused on studying frontend development, experimenting with HTML, CSS, and JavaScript. My goal is to become a full-stack developer and create complete web applications, while also mastering backend technologies. I'm always seeking new knowledge and constantly striving to improve my skills.
     </div>
 </section>
 
 ###
 
 <section class="lang-and-tools">
-    <h3>🛠 ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs:</h3>
+    <h3>🛠Languages and tools:</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="24px"/>
     <img width="12px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="24px"/>
@@ -39,7 +39,7 @@
 ###
 
 <section>
-    <h3>⚡ᴍʏ sᴛᴀᴛɪsᴛɪᴄs:</h3>
+    <h3>⚡My statistics:</h3>
 </section>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stoqztw&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/stoqztw/github-readme-stats)
@@ -52,16 +52,16 @@
 
 ###
 
-<h3>✨ᴄᴏᴜʀsᴇs ᴄᴏᴍᴘʟᴇᴛᴇᴅ:</h3>
+<h3>✨Courses completed:</h3>
 
-| Курсы                     | Дата              |
-| ------------------------- | ----------------- |
-| udemy.com/Web-разработчик | 08.2024 - XX.2024 |
+| Courses                 | Date              |
+| ----------------------- | ----------------- |
+| udemy.com/Web-developer | 08.2024 - XX.2024 |
 
 ###
 
 <section class="Social Media">
-    <h3><img height="30px" src="https://i.gifer.com/bf0.gif"> ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ:</h3>
+    <h3><img height="30px" src="https://i.gifer.com/bf0.gif">Contacts:</h3>
 </section>
 
 [![Twitter: atsushiSq](https://img.shields.io/twitter/follow/atsushiSq?style=social)](https://x.com/atsushiSq)
