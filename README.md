@@ -11,7 +11,7 @@
 <section class="About-me">
     <h3>⭐ About me</h3>
     <div>
-    I'm 19. <img height="30px" src="https://i.gifer.com/Z5cP.gif"> Сurrently focused on studying frontend development, experimenting with HTML, CSS, and JavaScript. My goal is to become a full-stack developer and create complete web applications, while also mastering backend technologies. I'm always seeking new knowledge and constantly striving to improve my skills.
+    I'm 20. <img height="30px" src="https://i.gifer.com/Z5cP.gif"> Сurrently focused on studying frontend development, experimenting with HTML, CSS, and JavaScript. My goal is to become a full-stack developer and create complete web applications, while also mastering backend technologies. I'm always seeking new knowledge and constantly striving to improve my skills.
     </div>
 </section>
 
