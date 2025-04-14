@@ -1,45 +1,55 @@
-<div align="center">
-<img width="50px" src=https://i.gifer.com/ZNec.gif>
-</div>
-
 <section class="header">
-    <h1 align=center>Hi👋 I'm Artem!</h1>
+    <h1><img width="28px" src="https://i.gifer.com/ZNec.gif" > Artem</h1>
 </section>
 
 ###
 
+![Build Status](https://img.shields.io/badge/Junior%20FullStack%20Developer-ff5733)
+
 <section class="About-me">
-    <h3>⭐ About me</h3>
     <div>
-    I'm 20. <img height="30px" src="https://i.gifer.com/Z5cP.gif"> Сurrently focused on studying frontend development, experimenting with HTML, CSS, and JavaScript. My goal is to become a full-stack developer and create complete web applications, while also mastering backend technologies. I'm always seeking new knowledge and constantly striving to improve my skills.
+    I'm 20. Сurrently focused on studying frontend development, experimenting with HTML, CSS, and JavaScript. My goal is to become a full-stack developer and create complete web applications, while also mastering backend technologies. I'm always seeking new knowledge and constantly striving to improve my skills.
     </div>
 </section>
 
 ###
 
+<hr>
+
+###
+
 <section class="lang-and-tools">
-    <h3>🛠Languages and tools:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="24px"/>
+    <h3>🛠 Languages and tools:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28px"/>
     <img width="12px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="24px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28px"/>
     <img width="12px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="24px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="28px"/>
     <img width="12px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="24px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="28px"/>
     <img width="12px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="24px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="28px"/>
     <img width="12px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="24px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="28px">
     <img width="12px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="24px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="28px"/>
     <img width="12px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="24px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28px"/>
+    <img width="12px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="28px"/>
+    <img width="12px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="28px"/>
+    <img width="12px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="28px"/>
+    <img width="12px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="28px/>
+          
 </section>
 
 ###
 
 <section>
-    <h3>⚡My statistics:</h3>
+    <h3>📊 Stats</h3>
 </section>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stoqztw&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/stoqztw/github-readme-stats)
@@ -75,3 +85,5 @@
 <!--
 gif
 https://i.gifer.com/7IjS.gif -->
+
+<!-- <img height="30px" src="https://i.gifer.com/Z5cP.gif"> -->
