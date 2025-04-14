@@ -62,11 +62,11 @@
 
 ###
 
-<h3>✨Courses completed:</h3>
+<!-- <h3>✨Courses completed:</h3>
 
 | Courses                 | Date              |
 | ----------------------- | ----------------- |
-| udemy.com/Web-developer | 08.2024 - XX.2024 |
+| udemy.com/Web-developer | 08.2024 - XX.2024 | -->
 
 ###
 
