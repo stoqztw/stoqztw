@@ -59,6 +59,7 @@
 [![Stoqz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atsq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
+#
 
 ###
 
@@ -71,7 +72,7 @@
 ###
 
 <section class="Social Media">
-    <h3><img height="30px" src="https://i.gifer.com/bf0.gif">Contacts:</h3>
+    <h3><img height="32px" src="https://i.gifer.com/Z5cP.gif"> Contacts:</h3>
 </section>
 
 [![Twitter: atsushiSq](https://img.shields.io/twitter/follow/atsushiSq?style=social)](https://x.com/atsushiSq)
@@ -87,3 +88,4 @@ gif
 https://i.gifer.com/7IjS.gif -->
 
 <!-- <img height="30px" src="https://i.gifer.com/Z5cP.gif"> -->
+<!-- <img height="30px" src="https://i.gifer.com/bf0.gif">  -->
