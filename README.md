@@ -44,6 +44,8 @@
     <img width="12px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="28px/>  
     <img width="12px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28px/>
+    <img width="12px">
 </section>
 
 ###
@@ -59,6 +61,7 @@
 [![Stoqz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atsq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
+
 #
 
 ###
