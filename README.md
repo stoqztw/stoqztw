@@ -6,15 +6,15 @@
 
 ![Build Status](https://img.shields.io/badge/Junior%20FullStack%20Developer-ff5733)
 
-<section class="About-me">
+<!-- <section class="About-me">
     <div>
     I'm 20. Сurrently focused on studying frontend development, experimenting with HTML, CSS, and JavaScript. My goal is to become a full-stack developer and create complete web applications, while also mastering backend technologies. I'm always seeking new knowledge and constantly striving to improve my skills.
     </div>
-</section>
+</section> -->
 
 ###
 
-<hr>
+<!-- <hr> -->
 
 ###
 
@@ -58,11 +58,15 @@
     <h3>📊 Stats</h3>
 </section>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stoqztw&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/stoqztw/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stoqztw&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/stoqztw/github-readme-stats) -->
+
+<img src="https://githubcard.com/stoqztw.svg?d=MFS79kiz" width="550px">
 
 <!--START_SECTION:waka-->
 
-[![Stoqz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atsq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://githubcard.com/stoqztw.svg?d=9aE8UlWt" width="550px">
+
+<!-- [![Stoqz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atsq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--END_SECTION:waka-->
 
