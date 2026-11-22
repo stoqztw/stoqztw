@@ -1,5 +1,5 @@
 <!-- <section style="display: block; height: 280px; object-fit: cover"> -->
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9aebf8f6-7bae-4584-a5c9-32274c383d5d/dnd8l5f-6f9e4ae4-0733-4bb1-a46b-99b696204f42.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85YWViZjhmNi03YmFlLTQ1ODQtYTVjOS0zMjI3NGMzODNkNWQvZG5kOGw1Zi02ZjllNGFlNC0wNzMzLTRiYjEtYTQ2Yi05OWI2OTYyMDRmNDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DBxwQ6GYvZS9WG3XyJrHfz-SO0sQBs4rOJj6rY489pU" style="width: 100%; object-fit: cover">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9aebf8f6-7bae-4584-a5c9-32274c383d5d/dndd5l5-c2aa6789-3c75-4207-aac3-18435ff437e4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85YWViZjhmNi03YmFlLTQ1ODQtYTVjOS0zMjI3NGMzODNkNWQvZG5kZDVsNS1jMmFhNjc4OS0zYzc1LTQyMDctYWFjMy0xODQzNWZmNDM3ZTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kkGt9rVMq7_sttqZnVXukKVzuXaJs8OX9l8BjA3bz30" >
 <!-- </section> -->
 
 <div align="center" style="margin-top: 12px">
