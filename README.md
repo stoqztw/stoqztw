@@ -14,6 +14,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=stoqztw&theme=dark&hide_border=true&background=0d1117&ring=3C81DA&stroke=3C81DA&currStreakLabel=3C81DA&card_width=1000px)](https://git.io/streak-stats)
 
+![GitHub Views](https://komarev.com/ghpvc/?username=stoqztw&style=for-the-badge&abbreviated=true)
 
 <!-- links in html -->
 
