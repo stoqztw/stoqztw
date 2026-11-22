@@ -12,10 +12,16 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=20&theme=dark_github&card_width=1000)](https://wakatime.com/@atsq)
 
-<div style="display: flex; gap: 12px;">
-<img src="https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" style="width: 423px">
-<img src="https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=10&theme=dark_github" style="width: 423px">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=10&theme=dark_github" />
+    </td>
+  </tr>
+</table>
 
 <!-- links in html -->
 
