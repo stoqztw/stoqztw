@@ -1,12 +1,23 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgwbTl3eDBsZ3BzaGgwZWVqNHQ5aGhtMmhheWRlMmhjZ3E1dGQ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qbED26vxs0FrIhlBwl/giphy.gif" alt="main gif for profile" style="width: 1000px">
 
+<!-- invisible characters are used for alignment -->
 
 [![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartfen1as)](https://t.me/artfen1as)⠀⠀⠀⠀
 [![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-petrov-atsq%2F)](https://www.linkedin.com/in/artem-petrov-atsq/)⠀⠀⠀⠀
 ![Static Badge](https://img.shields.io/badge/fullstack_developer-black?style=for-the-badge&logo=devbox&logoColor=white)⠀⠀⠀
 [![Static Badge](https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2FatsushiSq)](https://www.behance.net/atsushiSq)⠀⠀⠀
-[![Static Badge](https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red)](#)
+[![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&card_width=1000)](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=20&theme=dark_github&card_width=1000)](https://wakatime.com/@atsq)
+
+<div style="display: flex; gap: 12px;">
+<img src="https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" style="width: 423px">
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=10&theme=dark_github" style="width: 423px">
+</div>
+
+<!-- links in html -->
 
 <!-- <div align="center" style="margin-top: 12px">
   <a href="https://t.me/artfen1as" style="text-decoration: none;">
@@ -28,16 +39,6 @@
   </a>
 </div> -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&card_width=1000)](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=20&theme=dark_github&card_width=1000)](https://wakatime.com/@atsq)
-
-<!-- <div style="display: flex; gap: 12px;">
-<img src="https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" style="width: 300px">
-<img src="https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=10&theme=dark_github">
-</div> -->
-
-<!-- OTHER MAIN IMAGES -->
 
 <!-- <br> -->
 <!-- NEW README -->
