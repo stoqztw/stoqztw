@@ -1,7 +1,6 @@
 <section style="display: block; height: 280px; object-fit: cover">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2thNGE3bm8zZnZseXd3MnF2bGowN2I1ZWp2NmxnM3QyMnNpa29qOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fxf3twLF1V84xiEjRw/giphy.gif" style="width: 100%; object-fit: cover">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVoZ2luOGgybWtyY2dlYml6bzE0cWlyYjV6ZzAxNzAxcTN6cjRocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vSakmT76EDn1h50eeg/giphy.gif" style="width: 100%; object-fit: cover">
 </section>
-<img width="28px" src="https://i.gifer.com/ZNec.gif" >
 
 <div align="center" style="margin-top: 12px">
   <a href="https://t.me/artfen1as" style="text-decoration: none;">
