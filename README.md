@@ -12,16 +12,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=20&theme=dark_github&card_width=1000)](https://wakatime.com/@atsq)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=10&theme=dark_github" />
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stoqztw&theme=dark&hide_border=true&background=0C1016&ring=3C81DA&stroke=3C81DA&currStreakLabel=3C81DA&card_width=1000px)](https://git.io/streak-stats)
 
 <!-- links in html -->
 
@@ -44,7 +35,6 @@
     <img src="https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red" />
   </a>
 </div> -->
-
 
 <!-- <br> -->
 <!-- NEW README -->
