@@ -1,10 +1,10 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgwbTl3eDBsZ3BzaGgwZWVqNHQ5aGhtMmhheWRlMmhjZ3E1dGQ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qbED26vxs0FrIhlBwl/giphy.gif" alt="main gif for profile" style="width: 1000px">
 
-ㅤ [![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartfen1as)](https://t.me/artfen1as) ㅤ
-[![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-petrov-atsq%2F)](https://www.linkedin.com/in/artem-petrov-atsq/) ㅤ
-![Static Badge](https://img.shields.io/badge/fullstack_developer-black?style=for-the-badge&logo=devbox&logoColor=white) ㅤ
-[![Static Badge](https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2FatsushiSq)](https://www.behance.net/atsushiSq) ㅤ
-[![Static Badge](https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red)](#)
+ㅤㅤ[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartfen1as)](https://t.me/artfen1as)
+ㅤㅤ[![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-petrov-atsq%2F)](https://www.linkedin.com/in/artem-petrov-atsq/) ㅤ
+ㅤㅤ![Static Badge](https://img.shields.io/badge/fullstack_developer-black?style=for-the-badge&logo=devbox&logoColor=white)
+ㅤㅤ[![Static Badge](https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2FatsushiSq)](https://www.behance.net/atsushiSq)
+ㅤㅤ[![Static Badge](https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red)](#)
 
 
 <!-- <div align="center" style="margin-top: 12px">
