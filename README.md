@@ -2,18 +2,23 @@
 
 <!-- invisible characters are used for alignment -->
 
-[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartfen1as)](https://t.me/artfen1as)⠀
-[![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-petrov-atsq%2F)](https://www.linkedin.com/in/artem-petrov-atsq/)⠀⠀
-![Static Badge](https://img.shields.io/badge/fullstack-black?style=for-the-badge&logo=devbox&logoColor=white)⠀⠀
-[![Static Badge](https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2FatsushiSq)](https://www.behance.net/atsushiSq)⠀
-[![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)⠀
-![GitHub Views](https://komarev.com/ghpvc/?username=stoqztw&style=for-the-badge&abbreviated=true&color=090909)
+[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartfen1as)](https://t.me/artfen1as)⠀⠀⠀⠀
+[![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-petrov-atsq%2F)](https://www.linkedin.com/in/artem-petrov-atsq/)⠀⠀⠀⠀
+![Static Badge](https://img.shields.io/badge/fullstack_developer-black?style=for-the-badge&logo=devbox&logoColor=white)⠀⠀⠀
+[![Static Badge](https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2FatsushiSq)](https://www.behance.net/atsushiSq)⠀⠀⠀
+[![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)
+
+<!-- neofetch -->
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83947970/715659875-2f176852-66f7-4111-975f-5adf9aee739f.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261123T082842Z&X-Amz-Expires=300&X-Amz-Signature=291f7ca4d030be88de1961dd6f1a9ca82256a40e982312a0e34000b9bd3c29ea&X-Amz-SignedHeaders=host&response-content-type=image%2Fsvg%2Bxml">
+<br><br>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&card_width=1000)](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=20&theme=dark_github&card_width=1000)](https://wakatime.com/@atsq)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=stoqztw&theme=dark&hide_border=true&background=0d1117&ring=3C81DA&stroke=3C81DA&currStreakLabel=3C81DA&card_width=1000px)](https://git.io/streak-stats)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=stoqztw&style=for-the-badge&abbreviated=true&color=090909)
 
 <!-- links in html -->
 
