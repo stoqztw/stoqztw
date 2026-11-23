@@ -9,9 +9,9 @@
 [![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)
 
 <!-- neofetch -->
-<br><br>
+<!-- <br><br>
 <img src="./neofetch.svg" >
-<br>
+<br> -->
 
 <hr>
 
@@ -88,7 +88,7 @@
 <!-- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9aebf8f6-7bae-4584-a5c9-32274c383d5d/dnd4fa2-6ae504e4-e24e-45bb-b169-731777ebd91f.png/v1/fill/w_900,h_300,q_80,strp/var_5_by_atsushijj_dnd4fa2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzAwIiwicGF0aCI6Ii9mLzlhZWJmOGY2LTdiYWUtNDU4NC1hNWM5LTMyMjc0YzM4M2Q1ZC9kbmQ0ZmEyLTZhZTUwNGU0LWUyNGUtNDViYi1iMTY5LTczMTc3N2ViZDkxZi5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.E_FNhpKVpwGambwlMts-ejojfES65pyJ4Gzt8gi-vuM" style="width: 100%"> -->
 
 <!-- OLD VERSION -->
-<section class="header">
+<!-- <section class="header">
     <h1><img width="28px" src="https://i.gifer.com/ZNec.gif" > Artem</h1>
 </section>
 
@@ -154,4 +154,4 @@
 [![GitHub](https://img.shields.io/github/followers/stoqztw?label=follow&style=social)](https://github.com/stoqztw)
 [![Linkedin: atsq](https://img.shields.io/badge/-atsq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://www.linkedin.com/in/artem-petrov-7a5632321/)
 [![Telegram: @artfen1aas](https://img.shields.io/badge/-@artfen1aas-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://t.me/artfen1aas)
-[![Telegram: stoqz](https://img.shields.io/badge/-stoqz-red?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/atsushiSq)](https://www.behance.net/atsushiSq)
+[![Telegram: stoqz](https://img.shields.io/badge/-stoqz-red?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/atsushiSq)](https://www.behance.net/atsushiSq) -->
