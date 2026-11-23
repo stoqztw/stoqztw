@@ -32,7 +32,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,go,rust,vite,tailwind,bootstrap,scss,git,linux,figma,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,go,rust,vite,tailwind,bootstrap,scss,git,linux,vscode,neovim)](https://skillicons.dev)
 
 <hr>
 
