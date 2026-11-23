@@ -9,7 +9,7 @@
 [![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)
 
 <!-- neofetch -->
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83947970/715659875-2f176852-66f7-4111-975f-5adf9aee739f.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261123T082842Z&X-Amz-Expires=300&X-Amz-Signature=291f7ca4d030be88de1961dd6f1a9ca82256a40e982312a0e34000b9bd3c29ea&X-Amz-SignedHeaders=host&response-content-type=image%2Fsvg%2Bxml">
+<img src="./neofetch.svg">
 <br><br>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&card_width=1000)](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
