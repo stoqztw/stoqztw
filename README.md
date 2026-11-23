@@ -2,11 +2,18 @@
 
 <!-- invisible characters are used for alignment -->
 
-[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartfen1as)](https://t.me/artfen1as)⠀⠀⠀⠀
+<!-- [![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartfen1as)](https://t.me/artfen1as)⠀⠀⠀⠀
 [![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-petrov-atsq%2F)](https://www.linkedin.com/in/artem-petrov-atsq/)⠀⠀⠀⠀
 ![Static Badge](https://img.shields.io/badge/fullstack_developer-black?style=for-the-badge&logo=devbox&logoColor=white)⠀⠀⠀
 [![Static Badge](https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2FatsushiSq)](https://www.behance.net/atsushiSq)⠀⠀⠀
+[![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#) -->
+
+[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartfen1as)](https://t.me/artfen1as)
+[![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-petrov-atsq%2F)](https://www.linkedin.com/in/artem-petrov-atsq/)
+![Static Badge](https://img.shields.io/badge/fullstack_developer-black?style=for-the-badge&logo=devbox&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2FatsushiSq)](https://www.behance.net/atsushiSq)
 [![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)
+![GitHub Views](https://komarev.com/ghpvc/?username=stoqztw&style=for-the-badge&abbreviated=true&color=090909)
 
 <!-- neofetch -->
 <!-- <br><br>
@@ -42,7 +49,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=stoqztw&theme=dark&hide_border=true&background=0d1117&ring=3C81DA&stroke=3C81DA&currStreakLabel=3C81DA&card_width=1000px)](https://git.io/streak-stats)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=stoqztw&style=for-the-badge&abbreviated=true&color=090909)
+<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=stoqztw&style=for-the-badge&abbreviated=true&color=090909) -->
 
 <!-- links in html -->
 
