@@ -9,8 +9,9 @@
 [![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)
 
 <!-- neofetch -->
-<img src="./neofetch.svg">
 <br><br>
+<img src="./neofetch.svg" >
+<br>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&card_width=1000)](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 
