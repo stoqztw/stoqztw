@@ -12,7 +12,7 @@
 [![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-petrov-atsq%2F)](https://www.linkedin.com/in/artem-petrov-atsq/)
 ![Static Badge](https://img.shields.io/badge/fullstack_developer-black?style=for-the-badge&logo=devbox&logoColor=white)
 [![Static Badge](https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2FatsushiSq)](https://www.behance.net/atsushiSq)
-[![Static Badge](<https://img.shields.io/badge/portfolio_(wip)-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)
+[![Static Badge](<https://img.shields.io/badge/portfolio-black?style=for-the-badge&logoColor=white&label=x&labelColor=red>)](#)
 ![GitHub Views](https://komarev.com/ghpvc/?username=stoqztw&style=for-the-badge&abbreviated=true&color=090909)
 
 <!-- neofetch -->
