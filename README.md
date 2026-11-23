@@ -13,6 +13,29 @@
 <img src="./neofetch.svg" >
 <br>
 
+<hr>
+
+### `~ $ ls languages-tools/`
+<!-- ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![Static Badge](https://img.shields.io/badge/vite-purple?style=for-the-badge&logo=vite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwind%20css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/axios-purple?style=for-the-badge&logo=axios&logoColor=white)
+![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=black)
+![Static Badge](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white) -->
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,go,rust,vite,tailwind,bootstrap,scss,git,linux,figma,photoshop)](https://skillicons.dev)
+
+<hr>
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&card_width=1000)](https://github-stats-extended.vercel.app/api?username=stoqztw&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=atsq&layout=compact&hide_title=true&langs_count=20&theme=dark_github&card_width=1000)](https://wakatime.com/@atsq)
@@ -65,7 +88,7 @@
 <!-- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9aebf8f6-7bae-4584-a5c9-32274c383d5d/dnd4fa2-6ae504e4-e24e-45bb-b169-731777ebd91f.png/v1/fill/w_900,h_300,q_80,strp/var_5_by_atsushijj_dnd4fa2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzAwIiwicGF0aCI6Ii9mLzlhZWJmOGY2LTdiYWUtNDU4NC1hNWM5LTMyMjc0YzM4M2Q1ZC9kbmQ0ZmEyLTZhZTUwNGU0LWUyNGUtNDViYi1iMTY5LTczMTc3N2ViZDkxZi5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.E_FNhpKVpwGambwlMts-ejojfES65pyJ4Gzt8gi-vuM" style="width: 100%"> -->
 
 <!-- OLD VERSION -->
-<!-- <section class="header">
+<section class="header">
     <h1><img width="28px" src="https://i.gifer.com/ZNec.gif" > Artem</h1>
 </section>
 
@@ -131,4 +154,4 @@
 [![GitHub](https://img.shields.io/github/followers/stoqztw?label=follow&style=social)](https://github.com/stoqztw)
 [![Linkedin: atsq](https://img.shields.io/badge/-atsq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://www.linkedin.com/in/artem-petrov-7a5632321/)
 [![Telegram: @artfen1aas](https://img.shields.io/badge/-@artfen1aas-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/atsq/)](https://t.me/artfen1aas)
-[![Telegram: stoqz](https://img.shields.io/badge/-stoqz-red?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/atsushiSq)](https://www.behance.net/atsushiSq) -->
+[![Telegram: stoqz](https://img.shields.io/badge/-stoqz-red?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/atsushiSq)](https://www.behance.net/atsushiSq)
